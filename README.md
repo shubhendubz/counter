@@ -1,4 +1,6 @@
 ## Screen Recording of the task given
+Click to see [Firebase Link](https://counter-shubu.web.app/)
+<br/>
 ![recording](Task-IncDelDec.gif)
 
 ## Initial phase
