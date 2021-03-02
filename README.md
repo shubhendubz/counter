@@ -1,6 +1,10 @@
 ## Screen Recording of the task given
 ![recording](Task-IncDelDec.gif)
 
+## Initial phase
+![recording2](Like & Decr_Incr_Del Counter Task.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
