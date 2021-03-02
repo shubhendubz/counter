@@ -2,7 +2,7 @@
 ![recording](Task-IncDelDec.gif)
 
 ## Initial phase
-![recording2](Like & Decr_Incr_Del Counter Task.gif)
+![recording2](Like%20&%20Decr_Incr_Del%20Counter%20Task.gif)
 
 
 # Getting Started with Create React App
